@@ -1,0 +1,21 @@
+<?php
+
+$oci_usuario = "NOR50";
+$oci_pass = "NOR50";;
+
+
+$oci_ip2 = "ciruelo.uninorte.edu.co";
+$oci_port2 = "1521";
+//$oci_usuario2 = "kioskousr";
+//$oci_pass2 = "k10sc014";
+$oci_SID2 = "aleph23";
+
+
+	/*function escape_string($value)
+	  {
+	  	$search = array("\\",  "\x00", "\n",  "\r",  "'",  '"', "\x1a", "");
+	  	$replace = array("\\\\","\\0","\\n", "\\r", "\'", '\"', "\\Z");
+
+	  	return str_replace($search, $replace, $value);
+	  }*/ /////////////////////??????
+?>
